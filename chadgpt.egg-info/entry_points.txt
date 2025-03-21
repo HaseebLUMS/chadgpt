@@ -1,0 +1,2 @@
+[console_scripts]
+chadgpt = chadgpt.cli:main

@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+chadgpt/__init__.py
+chadgpt/cli.py
+chadgpt.egg-info/PKG-INFO
+chadgpt.egg-info/SOURCES.txt
+chadgpt.egg-info/dependency_links.txt
+chadgpt.egg-info/entry_points.txt
+chadgpt.egg-info/requires.txt
+chadgpt.egg-info/top_level.txt
